@@ -21,7 +21,9 @@ GSAI-2th-courses/
 └── Second_sem/                   # 大二下学期
     ├── Algorithm/                # 算法分析与设计
     ├── ML/                       # 机器学习基础
-    └── Optimization/             # 最优化理论与方法
+    ├── Optimization/             # 最优化理论与方法
+    └── ICS2/                     # 计算机系统导论2
+    
 ```
 
 ## 📚 课程详情
