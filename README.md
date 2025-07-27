@@ -87,7 +87,6 @@ GSAI-2th-courses/
 
 如有问题或建议，欢迎通过以下方式联系：
 - 邮箱: [2023202269@ruc.edu.cn]
-- vx: [LRU8186]
 - GitHub: [whiteman333]
 
 ---
