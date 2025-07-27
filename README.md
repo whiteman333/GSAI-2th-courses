@@ -44,7 +44,7 @@ GSAI-2th-courses/
 - **资料包含**: 参考书籍、期末复习指南（来自往届师兄，非作者所撰）、cheetsheet（作者所撰）
 
 #### 5. 概率论与数理统计 (Probability and Statistics)
-- **资料包含**: 课件、教材、章末习题、cheatsheet（作者所撰）
+- **资料包含**: 课件、教材、章末习题、cheatsheet
 
 ### 🔹 第二学期课程
 
